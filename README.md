@@ -6,5 +6,5 @@ ____
 ____
     对vgg16模型进行微调(finetuining),将其变成自己的分类器。这样做能够有效利用vgg16的复杂性，但是训练量很小，以较少的训练获得
     不错的效果。
-    [vgg16模型下载](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz)
-    [土豆豆腐数据集下载](https://static.leiphone.com/%E7%BE%8E%E9%A3%9F%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%E8%B1%86%E8%85%90%E5%92%8C%E5%9C%9F%E8%B1%86.zip) 
+    [vgg16模型下载] (https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz)
+    [土豆豆腐数据集下载] (https://static.leiphone.com/%E7%BE%8E%E9%A3%9F%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%E8%B1%86%E8%85%90%E5%92%8C%E5%9C%9F%E8%B1%86.zip) 
